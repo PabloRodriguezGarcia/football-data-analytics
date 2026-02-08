@@ -8,6 +8,7 @@ Este proyecto utiliza Python y Pandas para analizar el rendimiento de los futbol
 * **Motores del Juego**: Identificación de jugadores clave en la progresión del balón (PrgP).
 
 ## 📊 Visualizaciones
+* Gráficos como el siguiente entre otros
 ![Eficiencia](./visuals/scatter_eficiencia.png)
 *Descripción: Comparativa de goles reales frente a la probabilidad estadística.*
 
